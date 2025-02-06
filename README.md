@@ -1,12 +1,12 @@
-# 🎵 Spotify Clone
+# 🎵 Spotify React
 
-Este é um projeto de clonagem da interface do Spotify, desenvolvido utilizando **React.js** e **JSON Server** para simular uma API.
+Este projeto é uma interface inspirada no Spotify, desenvolvida com **React.js** e utilizando **JSON Server** para simular uma API.
 
 ## 📌 Funcionalidades
-- Interface moderna inspirada no Spotify
-- Listagem de artistas via **JSON Server**
-- Pesquisa de artistas por nome
+- Interface responsiva inspirada no Spotify
+- Listagem e pesquisa de artistas
 - Ícones interativos com **FontAwesome**
+- Simulação de API com **JSON Server**
 
 ## 🚀 Tecnologias Utilizadas
 - **React.js**
@@ -15,14 +15,14 @@ Este é um projeto de clonagem da interface do Spotify, desenvolvido utilizando 
 - **CSS Modules** (para estilização)
 
 ## 📚 Base de Estudo
-Este projeto foi desenvolvido com base em aulas da **Alura**.
+Este projeto foi desenvolvido durante uma **imersão da Alura**.
 
 ## 🔧 Como Rodar o Projeto
 
 ### 1️⃣ Clonar o Repositório
 ```bash
-git clone https://github.com/BorgesDineii/Spotify_Clone.git
-cd Spotify_Clone
+git clone https://github.com/BorgesDineii/Spotify_react.git
+cd Spotify_react
 ```
 
 ### 2️⃣ Instalar as Dependências
